@@ -1,0 +1,6 @@
+<svg width="200" height="197">
+	<circle cx="72" cy="72" r="72" fill="#ae5fce" />
+	<g style="mix-blend-mode:multifly">
+		<circle cx="128" cy="125" r="72" fill="#5b78c7" />
+	</g>
+</svg>
